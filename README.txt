@@ -60,9 +60,3 @@ get the results of model checking and resolution for horn clauses test
 
 (6) doors_of_enlightment.py
 get the results of model checking and resolution for doors of enlightenment test
-
------------
-Author Info
------------
-Name: Jiapeng Li (jli161)
-Name: Zeyi Pan (zpan12)
